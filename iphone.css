@@ -52,7 +52,7 @@ body {
     width: 260px;
     height: 540px;
     border-radius: 30px;
-    background: url(../Image/iphone\ gold.jpg);
+    background: url(gold.jpg);
     background-size: cover;
 }
 
@@ -72,7 +72,7 @@ body {
     margin-top: 5px;
     width: 30px;
     height: 30px;
-    background: url(../Image/png-transparent-user-profile-computer-icons-login-user-avatars-thumbnail.png);
+    background: url(png-transparent-user-profile-computer-icons-login-user-avatars-thumbnail.png);
     background-size: cover;
     border-radius: 50px;
     transform: scale(0);
@@ -85,7 +85,7 @@ body {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background: url(../Image/callreceive.png);
+    background: url(callreceive.png);
     background-size: cover;
     transform: scale(0);
     transition: all .5s ease-out;
@@ -97,7 +97,7 @@ body {
     width: 30px;
     height: 30px;
     border-radius: 50px;
-    background: url(../Image/calldecline.jpg);
+    background: url(calldecline.jpg);
     background-size: cover;
     transform: scale(0);
 }
